@@ -22,10 +22,3 @@ Socket.IO for the message implementing feature.
 I am also using Selenium behind the scenes for some Web Scraping as well
 
 I am using NodeJS, mySql to manage my data. 
-
-Attached is the latest video of my app: https://drive.google.com/file/d/1vYNlsvBeEatV5GqEtn9nqiALWWLywrAw/view?usp=sharing
-
-Added link to the 2nd movie showing expo start requirement added later: https://drive.google.com/file/d/1JdNhbrsBhMGLdHZACUielnL8T81MPdwB/view?usp=sharing
-
-
-
