@@ -1,3 +1,8 @@
+
+Professional Portfolio: https://www.jnydam.com
+
+-------------------------------------------------------------
+
 # Jazz Connect Mobile Application
 
 This is the OFFICIAL README for this mobile application.
